@@ -5,7 +5,7 @@ function Navbar() {
     return (
         <nav className="navi">
                 <ul>
-                    <CustomLinkki to="/Koti">Laskeutumissivu</CustomLinkki>
+                    <CustomLinkki to="/Koti">Map</CustomLinkki>
                     <CustomLinkki to="/Linkki4">Event Handlers</CustomLinkki>
                     <CustomLinkki to="/Laskin">Laskin App</CustomLinkki>
                 </ul>
